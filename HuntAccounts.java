@@ -1,7 +1,7 @@
 package mypackage;
 /*This is going to contain universal accounts. This Class can be applied for a variety of bussiness. Such as a resturaunt, Bank, video channel, and etc. 
 
-Developer Name: Andrew Nobles 
+Developer Name: tatcoffeenux
 Date 08/11/2025
 
 */
