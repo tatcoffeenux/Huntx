@@ -1,0 +1,4 @@
+#Introduction
+This project is a based on a pizza order that is needed by the customer. 
+#Purpost of the project. 
+The project is meant to use Java programming language to get familiar again and could have different classes to support the program. 
